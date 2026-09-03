@@ -50,6 +50,7 @@ uv add "opencv-python==4.12.0.88"
 uv add jupyterlab
 ```
 
-jupyterlab 실힝
+- jupyterlab 실행
+```
 uv run jupyter lab
- 
+``` 
